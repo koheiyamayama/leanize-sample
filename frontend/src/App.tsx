@@ -16,7 +16,7 @@ export function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React from V2
         </a>
       </header>
     </div>
